@@ -7,14 +7,10 @@ Each folder corresponds to a specific course or term and includes its own README
 
 ## Structure
 RIT-Coursework-Code
-
-├── Cryptography (Spring 2025)
-
-├── Modern Lab (Fall 2023)
-
-├── Advanced Lab (Spring 2024)
-
-├── Adv Computational Physics (Spring 2025)
+- Cryptography (Spring 2025)
+- Modern Lab (Fall 2023)
+- Advanced Lab (Spring 2024)
+- Adv Computational Physics (Spring 2025)
 
 ## License
 All code is released under the \[MIT License](LICENSE) unless otherwise noted in individual folders.
