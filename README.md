@@ -13,7 +13,7 @@ RIT-Coursework-Code
 - Adv Computational Physics (Spring 2025)
 
 ## License
-All code is released under the \[MIT License](LICENSE) unless otherwise noted in individual folders.
+All code is released under the [MIT License](LICENSE) unless otherwise noted in individual folders.
 
 ## Author
 Stanley Goodwin  
