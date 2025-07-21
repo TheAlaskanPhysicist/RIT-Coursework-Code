@@ -3,6 +3,7 @@ This repository contains code written for RIT undergraduate coursework between F
 - Physics lab scripts and data analysis
 - Math assignments (e.g., cryptography)
 - In-class exercises and supporting code
+
 Each folder corresponds to a specific course or term and includes its own README for context.
 
 ## Structure
